@@ -1,5 +1,5 @@
 # metabow_suite
-This repository includes the link to the MetaBow Suite, a piece of software that combines an the MetaBow bridge witha python-version of Michael Palumbo's AllHands model to transmit OSC messages over a distributed online network:
+This repository includes a link to the MetaBow Suite, a piece of software that combines the MetaBow bridge with a Python version of Michael Palumbo's AllHands model to transmit OSC messages over a distributed online network:
 
 https://drive.google.com/drive/folders/1X7ncdbTzHJo22wCms9SRzsUNj7UWfHdM?usp=share_link
 
